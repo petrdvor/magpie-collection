@@ -1,7 +1,7 @@
 ## Welcome to Magpie's collection of resources.
 
 See the collection on a website:
-http://petrdvor.github.io/magpie-collection
+http://petrdvor.github.io/magpies-collection
 
 Collection of Python resources related to data science and general programming.
 
