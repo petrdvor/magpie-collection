@@ -22,3 +22,6 @@ Collection of Python resources related to data science and general programming.
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
 * [Good coding practices for Data Science](https://towardsdatascience.com/good-coding-practices-for-data-science-e9237783784c)
+
+### Doscstrings
+* [Start Writing Python Docstrings](https://medium.com/better-programming/the-guide-to-python-docstrings-3d40340e824b)
