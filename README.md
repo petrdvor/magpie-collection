@@ -5,9 +5,12 @@ http://petrdvor.github.io/magpies-python-resources
 
 Collection of Python resources related to data science and general programming.
 
-## Basics
-
+## Basics & General
+* [10 Interesting Python Built-in Functions and Operators to Put in Your Toolbox](https://levelup.gitconnected.com/10-interesting-python-built-in-functions-operators-to-put-in-your-toolbox-6ae2175f415a)
 * [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
+* [Configuration files in Python](https://martin-thoma.com/configuration-files-in-python/)
+* [All We Need to Know About Various Dictionaries in Python](https://medium.com/python-features/all-we-need-to-know-about-various-dictionaries-in-python-3564d6231f20)
+* [Exceptional Code: Using try-except in Python](https://medium.com/better-programming/exceptional-code-using-try-except-in-python-540b6416db79)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -45,6 +48,8 @@ Collection of Python resources related to data science and general programming.
 * [10 Golden Rules Of Good OOP](https://www.codeproject.com/Articles/768052/Golden-Rules-Of-Good-OOP)
 * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 * [How to be fancy with OOP in Python](https://towardsdatascience.com/how-to-be-fancy-with-python-part-2-70fab0a3e492)
+* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Magic Methods in Python, by example](https://towardsdatascience.com/magic-methods-in-python-by-example-16b6826cae5c)
 
 ## Design patterns
 
@@ -54,7 +59,16 @@ Collection of Python resources related to data science and general programming.
 ## Data science
 
 * [Dataprep.eda: Accelerate your EDA](https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc)
+* [Three Data Science Technologies to Explore while you Self-Isolate: What are Docker, Airflow and Elasticsearch?](https://towardsdatascience.com/three-data-science-technologies-to-explore-while-you-self-isolate-what-is-docker-airflow-and-78969ba4f5fe)
+* [Four Useful Functions For Exploring Data in Python](https://towardsdatascience.com/four-useful-functions-for-exploring-data-in-python-33b53288cdd8)
+* [A Basic Guide to Initial and Exploratory Data Analysis](https://towardsdatascience.com/a-basic-guide-to-initial-and-exploratory-data-analysis-6d2577dfc242)
 
 ## Multiprocessing
 
-* [very Python Programmer Should Know the Not-So-Secret ThreadPool](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
+* [Every Python Programmer Should Know the Not-So-Secret ThreadPool](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
+
+## Vizualization
+
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+* [11 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
+* [9 Data Visualization Tools That You Cannot Miss in 2019](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
