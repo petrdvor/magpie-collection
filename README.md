@@ -5,9 +5,15 @@ http://petrdvor.github.io/magpies-python-resources
 
 Collection of Python resources related to data science and general programming.
 
+## Basics
+
+* [Idiomatic Python](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html)
+
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
 * [Good coding practices for Data Science](https://towardsdatascience.com/good-coding-practices-for-data-science-e9237783784c)
+* [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
+
 
 ### Project structure
 
@@ -15,11 +21,12 @@ Collection of Python resources related to data science and general programming.
 * [Real Python](https://realpython.com/python-application-layouts/)
 * [Jean-Paul Calderone](http://as.ynchrono.us/2007/12/filesystem-structure-of-python-project_21.html)
 
-#### Data science project structure
+### Data science project structure
 
 * Edward Ma: [Manage your Data Science project structure in early stage](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600)
 * Baran Köseoğlu: [Structure Your Data Science Projects](https://towardsdatascience.com/structure-your-data-science-projects-6c6c8653c16a)
 * [Cookiecutter Python package](https://drivendata.github.io/cookiecutter-data-science/)
+* [How to organize code in Python if you are a scientist](https://towardsdatascience.com/workflow-for-reportable-reusable-and-reproducible-computational-research-45d036c8a908)
 
 ### Doscstrings
 
@@ -43,3 +50,11 @@ Collection of Python resources related to data science and general programming.
 
 * [Naming Classes - How to avoid calling everything a WhatEver Manager](https://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)
 * [Design Patterns in Python Part 1: The Strategy Pattern](https://medium.com/@sheikhsajid/design-patterns-in-python-part-1-the-strategy-pattern-54b24897233e)
+
+## Data science
+
+* [Dataprep.eda: Accelerate your EDA](https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc)
+
+## Multiprocessing
+
+* [very Python Programmer Should Know the Not-So-Secret ThreadPool](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
