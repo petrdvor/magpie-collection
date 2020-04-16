@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Magpie's collection of resources
 description: Collection of resources about Python and programming. Magpie has collected these jewels for you.
 logo: /img/logo.jpg
-show_downloads: "false"
+email: petrdvor@gmail.com
+show_downloads: true
