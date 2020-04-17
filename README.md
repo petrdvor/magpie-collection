@@ -14,18 +14,23 @@ Collection of Python resources related to data science and general programming.
 * [5 Advanced Features of Python and How to Use Them](https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84)
 * [How To List Every File in a Directory in Python](https://medium.com/better-programming/how-to-list-every-file-in-a-directory-in-python-bd431baeb679)
 * [Python Implementations of Data Structures](https://medium.com/better-programming/python-implementation-of-data-structures-bfcfa37bfaf1)
+* [10 Great Python Resources for Aspiring Data Scientists](https://www.kdnuggets.com/2019/09/10-great-python-resources-aspiring-data-scientists.html)
+* [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
+* [5 Advanced Features of Python and How to Use Them](https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84)
+* [An A-Z of useful Python tricks](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
 * [Good coding practices for Data Science](https://towardsdatascience.com/good-coding-practices-for-data-science-e9237783784c)
 * [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
-
+* [Python Progress Bars with Tqdm by Example](https://medium.com/better-programming/python-progress-bars-with-tqdm-by-example-ce98dbbc9697)
 
 ### Project structure
 
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)
 * [Real Python](https://realpython.com/python-application-layouts/)
 * [Jean-Paul Calderone](http://as.ynchrono.us/2007/12/filesystem-structure-of-python-project_21.html)
+* [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
 
 ### Data science project structure
 
@@ -55,11 +60,15 @@ Collection of Python resources related to data science and general programming.
 * [How to be fancy with OOP in Python](https://towardsdatascience.com/how-to-be-fancy-with-python-part-2-70fab0a3e492)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Magic Methods in Python, by example](https://towardsdatascience.com/magic-methods-in-python-by-example-16b6826cae5c)
+* [Introducing Python 3.7's Dataclasses](https://www.linuxjournal.com/content/introducing-python-37s-dataclasses)
 
 ## Design patterns
 
 * [Naming Classes - How to avoid calling everything a WhatEver Manager](https://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)
 * [Design Patterns in Python Part 1: The Strategy Pattern](https://medium.com/@sheikhsajid/design-patterns-in-python-part-1-the-strategy-pattern-54b24897233e)
+
+## Software architecture
+* PDF BOOK [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 ## Data science
 
@@ -84,3 +93,10 @@ Collection of Python resources related to data science and general programming.
 ## Packages and modules
 
 * [Python Modules: Creating, Importing, and Sharing](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
+* [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
+
+## Databases
+
+### SQLite
+* [Working with SQLite Databases using Python and Pandas](https://www.dataquest.io/blog/python-pandas-databases/)
+* [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
