@@ -11,6 +11,9 @@ Collection of Python resources related to data science and general programming.
 * [Configuration files in Python](https://martin-thoma.com/configuration-files-in-python/)
 * [All We Need to Know About Various Dictionaries in Python](https://medium.com/python-features/all-we-need-to-know-about-various-dictionaries-in-python-3564d6231f20)
 * [Exceptional Code: Using try-except in Python](https://medium.com/better-programming/exceptional-code-using-try-except-in-python-540b6416db79)
+* [5 Advanced Features of Python and How to Use Them](https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84)
+* [How To List Every File in a Directory in Python](https://medium.com/better-programming/how-to-list-every-file-in-a-directory-in-python-bd431baeb679)
+* [Python Implementations of Data Structures](https://medium.com/better-programming/python-implementation-of-data-structures-bfcfa37bfaf1)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -30,6 +33,8 @@ Collection of Python resources related to data science and general programming.
 * Baran Köseoğlu: [Structure Your Data Science Projects](https://towardsdatascience.com/structure-your-data-science-projects-6c6c8653c16a)
 * [Cookiecutter Python package](https://drivendata.github.io/cookiecutter-data-science/)
 * [How to organize code in Python if you are a scientist](https://towardsdatascience.com/workflow-for-reportable-reusable-and-reproducible-computational-research-45d036c8a908)
+* [How to Structure a Python-Based Data Science Project (a short tutorial for beginners)](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
+
 
 ### Doscstrings
 
@@ -62,6 +67,9 @@ Collection of Python resources related to data science and general programming.
 * [Three Data Science Technologies to Explore while you Self-Isolate: What are Docker, Airflow and Elasticsearch?](https://towardsdatascience.com/three-data-science-technologies-to-explore-while-you-self-isolate-what-is-docker-airflow-and-78969ba4f5fe)
 * [Four Useful Functions For Exploring Data in Python](https://towardsdatascience.com/four-useful-functions-for-exploring-data-in-python-33b53288cdd8)
 * [A Basic Guide to Initial and Exploratory Data Analysis](https://towardsdatascience.com/a-basic-guide-to-initial-and-exploratory-data-analysis-6d2577dfc242)
+* [How to Organize your Data Science Articles with Github](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37)
+* [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
+* [A Data Scientist’s Guide to Data Architecture](https://towardsdatascience.com/a-data-scientists-guide-to-data-architecture-bac00b0913f)
 
 ## Multiprocessing
 
@@ -72,3 +80,7 @@ Collection of Python resources related to data science and general programming.
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [11 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
 * [9 Data Visualization Tools That You Cannot Miss in 2019](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
+
+## Packages and modules
+
+* [Python Modules: Creating, Importing, and Sharing](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
