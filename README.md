@@ -89,6 +89,12 @@ Collection of Python resources related to data science and general programming.
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [11 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
 * [9 Data Visualization Tools That You Cannot Miss in 2019](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
+* [Effective Data Visualization](https://towardsdatascience.com/effective-data-visualization-ef30ae560961)
+* [Tips for Effective Data Visualization](https://towardsdatascience.com/tips-for-effective-data-visualization-d4b2af91db37)
+* [Effective Data Visualization for other Humans](https://towardsdatascience.com/effective-data-visualization-for-other-humans-695e54a5dc71)
+* [A 5-step guide to data visualization](https://www.elsevier.com/connect/a-5-step-guide-to-data-visualization)
+* [COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+
 
 ## Packages and modules
 
