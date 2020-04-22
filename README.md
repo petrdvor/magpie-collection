@@ -96,6 +96,7 @@ Collection of Python resources related to data science and general programming.
 * [Effective Data Visualization for other Humans](https://towardsdatascience.com/effective-data-visualization-for-other-humans-695e54a5dc71)
 * [A 5-step guide to data visualization](https://www.elsevier.com/connect/a-5-step-guide-to-data-visualization)
 * [COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+* [Easy Steps To Plot Geographic Data on a Map — Python](https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db)
 
 
 ## Packages and modules
@@ -108,3 +109,12 @@ Collection of Python resources related to data science and general programming.
 ### SQLite
 * [Working with SQLite Databases using Python and Pandas](https://www.dataquest.io/blog/python-pandas-databases/)
 * [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
+
+## Pandas & Numpy
+
+* [12 Amazing Pandas & NumPy Functions](https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8)
+* [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+* [Top 10 Mistakes that Django Developers Make](https://www.toptal.com/django/django-top-10-mistakes)
+* [Using Database models in Python and Django](https://medium.com/@franciscoigor/using-database-models-in-python-and-django-15c38a59c32e)
+* [Django: Request/Response Cycle](https://medium.com/@ksarthak4ever/django-request-response-cycle-2626e9e8606e)
+* [How I Made My First Django App](https://medium.com/@siddharthshringi/how-i-made-my-first-django-app-4ede65c9b17f)
