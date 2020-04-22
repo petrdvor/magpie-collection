@@ -31,6 +31,8 @@ Collection of Python resources related to data science and general programming.
 * [Real Python](https://realpython.com/python-application-layouts/)
 * [Jean-Paul Calderone](http://as.ynchrono.us/2007/12/filesystem-structure-of-python-project_21.html)
 * [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
+* [Dead Simple Python: Project Structure and Imports](https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6)
+* [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
 ### Data science project structure
 
