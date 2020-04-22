@@ -20,6 +20,8 @@ Collection of Python resources related to data science and general programming.
 * [An A-Z of useful Python tricks](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
 * [Every Python Programmer Should Know LRU_cache From the Standard Library](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
 * [Python : How to make a class Iterable & create Iterator Class for it ?](https://thispointer.com/python-how-to-make-a-class-iterable-create-iterator-class-for-it/)
+* [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
+* [Stock Data Analysis with Python (Second Edition)](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -83,6 +85,7 @@ Collection of Python resources related to data science and general programming.
 * [How to Organize your Data Science Articles with Github](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37)
 * [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
 * [A Data Scientist’s Guide to Data Architecture](https://towardsdatascience.com/a-data-scientists-guide-to-data-architecture-bac00b0913f)
+* [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 
 ## Multiprocessing
 
@@ -99,6 +102,12 @@ Collection of Python resources related to data science and general programming.
 * [A 5-step guide to data visualization](https://www.elsevier.com/connect/a-5-step-guide-to-data-visualization)
 * [COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 * [Easy Steps To Plot Geographic Data on a Map — Python](https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db)
+* [Generate a heatmap in MatPlotLib using a scatter data set](https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set/49555732)
+
+
+### Dashboards
+* [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
+* [Dashboards in Python Using Dash — Creating a Data Table using Data from Reddit](https://medium.com/swlh/dashboards-in-python-using-dash-creating-a-data-table-using-data-from-reddit-1d6c0cecb4bd)
 
 
 ## Packages and modules
@@ -106,6 +115,7 @@ Collection of Python resources related to data science and general programming.
 * [Python Modules: Creating, Importing, and Sharing](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
 * [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
 * [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
+* [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
 
 ## Databases
 
