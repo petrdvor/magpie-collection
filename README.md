@@ -18,6 +18,8 @@ Collection of Python resources related to data science and general programming.
 * [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
 * [5 Advanced Features of Python and How to Use Them](https://towardsdatascience.com/5-advanced-features-of-python-and-how-to-use-them-73bffa373c84)
 * [An A-Z of useful Python tricks](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
+* [Every Python Programmer Should Know LRU_cache From the Standard Library](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
+* [Python : How to make a class Iterable & create Iterator Class for it ?](https://thispointer.com/python-how-to-make-a-class-iterable-create-iterator-class-for-it/)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -103,6 +105,7 @@ Collection of Python resources related to data science and general programming.
 
 * [Python Modules: Creating, Importing, and Sharing](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
 * [Structuring, Testing, and Maintaining Python Programs](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)
+* [What’s __init__ for me?](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
 
 ## Databases
 
@@ -118,3 +121,7 @@ Collection of Python resources related to data science and general programming.
 * [Using Database models in Python and Django](https://medium.com/@franciscoigor/using-database-models-in-python-and-django-15c38a59c32e)
 * [Django: Request/Response Cycle](https://medium.com/@ksarthak4ever/django-request-response-cycle-2626e9e8606e)
 * [How I Made My First Django App](https://medium.com/@siddharthshringi/how-i-made-my-first-django-app-4ede65c9b17f)
+
+## Repos worth to explore
+
+* [soarpenguin/python-scripts](https://github.com/soarpenguin/python-scripts)
