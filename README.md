@@ -126,6 +126,14 @@ Collection of Python resources related to data science and general programming.
 * [Working with SQLite Databases using Python and Pandas](https://www.dataquest.io/blog/python-pandas-databases/)
 * [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
 
+## APIs
+
+* [Why GraphQL is the future of APIs](https://www.freecodecamp.org/news/why-graphql-is-the-future-of-apis-6a900fb0bc81/)
+* [Introduction to GraphQL](https://graphql.org/learn/)
+* [API Design](https://swagger.io/solutions/api-design/)
+* [An introduction to GraphQL: how it works and how to use it](https://www.freecodecamp.org/news/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0/)
+* [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
+
 ## Pandas & Numpy
 
 * [12 Amazing Pandas & NumPy Functions](https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8)
