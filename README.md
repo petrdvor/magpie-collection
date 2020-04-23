@@ -93,6 +93,7 @@ Collection of Python resources related to data science and general programming.
 ## Multiprocessing
 
 * [Every Python Programmer Should Know the Not-So-Secret ThreadPool](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
+* [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
 
 ## Vizualization
 
@@ -111,6 +112,7 @@ Collection of Python resources related to data science and general programming.
 ### Dashboards
 * [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
 * [Dashboards in Python Using Dash — Creating a Data Table using Data from Reddit](https://medium.com/swlh/dashboards-in-python-using-dash-creating-a-data-table-using-data-from-reddit-1d6c0cecb4bd)
+* [34 Best Free & Responsive Admin Templates 2020](https://colorlib.com/wp/free-admin-templates/)
 
 
 ## Packages and modules
