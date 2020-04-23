@@ -21,7 +21,10 @@ Collection of Python resources related to data science and general programming.
 * [Every Python Programmer Should Know LRU_cache From the Standard Library](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
 * [Python : How to make a class Iterable & create Iterator Class for it ?](https://thispointer.com/python-how-to-make-a-class-iterable-create-iterator-class-for-it/)
 * [Working with Binary Data in Python](https://www.devdungeon.com/content/working-binary-data-python)
+* [Things you’re probably not using in Python 3 – but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 * [Stock Data Analysis with Python (Second Edition)](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [String Validators in Python](https://medium.com/better-programming/string-validators-in-python-84aca562fd25)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -131,7 +134,10 @@ Collection of Python resources related to data science and general programming.
 * [Using Database models in Python and Django](https://medium.com/@franciscoigor/using-database-models-in-python-and-django-15c38a59c32e)
 * [Django: Request/Response Cycle](https://medium.com/@ksarthak4ever/django-request-response-cycle-2626e9e8606e)
 * [How I Made My First Django App](https://medium.com/@siddharthshringi/how-i-made-my-first-django-app-4ede65c9b17f)
+* [Less Known but Very Useful Pandas Functions](https://towardsdatascience.com/less-known-but-very-useful-pandas-functions-1e1756afb2a9)
+* [Stop Hurting Your Pandas!](https://www.kdnuggets.com/2020/04/stop-hurting-pandas.html)
 
 ## Repos worth to explore
 
 * [soarpenguin/python-scripts](https://github.com/soarpenguin/python-scripts)
+* [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
