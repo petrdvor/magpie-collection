@@ -89,6 +89,7 @@ Collection of Python resources related to data science and general programming.
 * [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
 * [A Data Scientist’s Guide to Data Architecture](https://towardsdatascience.com/a-data-scientists-guide-to-data-architecture-bac00b0913f)
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+## [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 
 ## Multiprocessing
 
@@ -107,13 +108,14 @@ Collection of Python resources related to data science and general programming.
 * [COMPREHENSIVE DATA EXPLORATION WITH PYTHON](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 * [Easy Steps To Plot Geographic Data on a Map — Python](https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db)
 * [Generate a heatmap in MatPlotLib using a scatter data set](https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set/49555732)
-
+* [New to Data Visualization? Start with New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
 
 ### Dashboards
 * [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
 * [Dashboards in Python Using Dash — Creating a Data Table using Data from Reddit](https://medium.com/swlh/dashboards-in-python-using-dash-creating-a-data-table-using-data-from-reddit-1d6c0cecb4bd)
 * [34 Best Free & Responsive Admin Templates 2020](https://colorlib.com/wp/free-admin-templates/)
 * [Your window into the Elastic Stac](https://www.elastic.co/kibana) - Vizualization engine
+* [How to embed Bootstrap CSS & JS in your Python Dash app](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
 
 
 ## Packages and modules
@@ -152,6 +154,7 @@ Collection of Python resources related to data science and general programming.
 * [Less Known but Very Useful Pandas Functions](https://towardsdatascience.com/less-known-but-very-useful-pandas-functions-1e1756afb2a9)
 * [Stop Hurting Your Pandas!](https://www.kdnuggets.com/2020/04/stop-hurting-pandas.html)
 * [How to simply make an operation on pandas DataFrame faster](https://towardsdatascience.com/how-to-simply-make-an-operation-on-pandas-dataframe-faster-adaea5e41e96)
+* [4 Less Known Pandas Functions That Can Make Your Work Easier](https://towardsdatascience.com/4-less-known-pandas-functions-that-can-make-your-work-easier-5e430cac7a82)
 
 ## Repos worth to explore
 
