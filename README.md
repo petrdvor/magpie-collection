@@ -113,6 +113,7 @@ Collection of Python resources related to data science and general programming.
 * [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
 * [Dashboards in Python Using Dash — Creating a Data Table using Data from Reddit](https://medium.com/swlh/dashboards-in-python-using-dash-creating-a-data-table-using-data-from-reddit-1d6c0cecb4bd)
 * [34 Best Free & Responsive Admin Templates 2020](https://colorlib.com/wp/free-admin-templates/)
+* [Your window into the Elastic Stac](https://www.elastic.co/kibana) - Vizualization engine
 
 
 ## Packages and modules
@@ -136,6 +137,10 @@ Collection of Python resources related to data science and general programming.
 * [An introduction to GraphQL: how it works and how to use it](https://www.freecodecamp.org/news/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0/)
 * [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
 
+## Testing
+
+* [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
+
 ## Pandas & Numpy
 
 * [12 Amazing Pandas & NumPy Functions](https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8)
@@ -146,6 +151,7 @@ Collection of Python resources related to data science and general programming.
 * [How I Made My First Django App](https://medium.com/@siddharthshringi/how-i-made-my-first-django-app-4ede65c9b17f)
 * [Less Known but Very Useful Pandas Functions](https://towardsdatascience.com/less-known-but-very-useful-pandas-functions-1e1756afb2a9)
 * [Stop Hurting Your Pandas!](https://www.kdnuggets.com/2020/04/stop-hurting-pandas.html)
+* [How to simply make an operation on pandas DataFrame faster](https://towardsdatascience.com/how-to-simply-make-an-operation-on-pandas-dataframe-faster-adaea5e41e96)
 
 ## Repos worth to explore
 
