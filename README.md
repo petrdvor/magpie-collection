@@ -31,6 +31,7 @@ Collection of Python resources related to data science and general programming.
 * [Good coding practices for Data Science](https://towardsdatascience.com/good-coding-practices-for-data-science-e9237783784c)
 * [30 Python Best Practices, Tips, And Tricks](https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5)
 * [Python Progress Bars with Tqdm by Example](https://medium.com/better-programming/python-progress-bars-with-tqdm-by-example-ce98dbbc9697)
+* [Logging Algorithmic Experiments in Python](https://towardsdatascience.com/logging-algorithmic-experiments-in-python-9ab1f0e55b89)
 
 ### Project structure
 
@@ -93,6 +94,8 @@ Collection of Python resources related to data science and general programming.
 * [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [DS Crash Course](https://www.dscrashcourse.com/lessons)
 * [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
+* [Data Science Crash Course: In Depth Linear Regression](https://towardsdatascience.com/data-science-crash-course-in-depth-linear-regression-fd06511f586c)
+* [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 ### Statistics
 
@@ -149,6 +152,7 @@ Collection of Python resources related to data science and general programming.
 * [API Design](https://swagger.io/solutions/api-design/)
 * [An introduction to GraphQL: how it works and how to use it](https://www.freecodecamp.org/news/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0/)
 * [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
+* [Comparing the best free financial market data APIs](https://towardsdatascience.com/comparing-the-best-free-financial-market-data-apis-158ae73c16ba)
 
 ## Testing
 
@@ -167,7 +171,12 @@ Collection of Python resources related to data science and general programming.
 * [How to simply make an operation on pandas DataFrame faster](https://towardsdatascience.com/how-to-simply-make-an-operation-on-pandas-dataframe-faster-adaea5e41e96)
 * [4 Less Known Pandas Functions That Can Make Your Work Easier](https://towardsdatascience.com/4-less-known-pandas-functions-that-can-make-your-work-easier-5e430cac7a82)
 
-## Repos worth to explore
+## Git 
+
+* [Git Commands – 10 Terminal Tricks Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/amp/)
+* [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+
+### Repos worth to explore
 
 * [soarpenguin/python-scripts](https://github.com/soarpenguin/python-scripts)
 * [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
