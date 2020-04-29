@@ -89,7 +89,9 @@ Collection of Python resources related to data science and general programming.
 * [Data Cleaning in Python: the Ultimate Guide (2020)](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
 * [A Data Scientist’s Guide to Data Architecture](https://towardsdatascience.com/a-data-scientists-guide-to-data-architecture-bac00b0913f)
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
-## [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
+* [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
+* [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
+* [DS Crash Course](https://www.dscrashcourse.com/lessons)
 
 ## Multiprocessing
 
@@ -109,6 +111,7 @@ Collection of Python resources related to data science and general programming.
 * [Easy Steps To Plot Geographic Data on a Map — Python](https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db)
 * [Generate a heatmap in MatPlotLib using a scatter data set](https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set/49555732)
 * [New to Data Visualization? Start with New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
+* [Intro to Dynamic Visualization with Python — Animations and Interactive Plots](https://towardsdatascience.com/intro-to-dynamic-visualization-with-python-animations-and-interactive-plots-f72a7fb69245)
 
 ### Dashboards
 * [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
