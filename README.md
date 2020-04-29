@@ -25,6 +25,7 @@ Collection of Python resources related to data science and general programming.
 * [Stock Data Analysis with Python (Second Edition)](https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [String Validators in Python](https://medium.com/better-programming/string-validators-in-python-84aca562fd25)
+* [Build Your First Open Source Python Project](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7)
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -51,14 +52,18 @@ Collection of Python resources related to data science and general programming.
 * [How to Structure a Python-Based Data Science Project (a short tutorial for beginners)](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
 
 
-### Doscstrings
+## Documentation
 
 * [Start Writing Python Docstrings](https://medium.com/better-programming/the-guide-to-python-docstrings-3d40340e824b)
+* [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 
-### Common mistakes
+## Common mistakes
 
 * [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 * [Top 10 Coding Mistakes Made by Data Scientists](https://towardsdatascience.com/top-10-coding-mistakes-made-by-data-scientists-bb5bc82faaee)
+
+## Algorithms
+* [Top Coding Algorithms — Breadth First Search](https://towardsdatascience.com/top-coding-algorithms-breadth-first-search-af2cce54c69c)
 
 ## OOP
 
@@ -71,6 +76,7 @@ Collection of Python resources related to data science and general programming.
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Magic Methods in Python, by example](https://towardsdatascience.com/magic-methods-in-python-by-example-16b6826cae5c)
 * [Introducing Python 3.7's Dataclasses](https://www.linuxjournal.com/content/introducing-python-37s-dataclasses)
+* [Meaning of @classmethod and @staticmethod for beginner?](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner)
 
 ## Design patterns
 
@@ -123,6 +129,7 @@ Collection of Python resources related to data science and general programming.
 * [Generate a heatmap in MatPlotLib using a scatter data set](https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set/49555732)
 * [New to Data Visualization? Start with New York City](https://towardsdatascience.com/new-to-data-visualization-start-with-new-york-city-107785f836ab)
 * [Intro to Dynamic Visualization with Python — Animations and Interactive Plots](https://towardsdatascience.com/intro-to-dynamic-visualization-with-python-animations-and-interactive-plots-f72a7fb69245)
+* [Creating custom plotting functions with matplotlib](https://towardsdatascience.com/creating-custom-plotting-functions-with-matplotlib-1f4b8eba6aa1)
 
 ### Dashboards
 * [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)
@@ -170,6 +177,7 @@ Collection of Python resources related to data science and general programming.
 * [Stop Hurting Your Pandas!](https://www.kdnuggets.com/2020/04/stop-hurting-pandas.html)
 * [How to simply make an operation on pandas DataFrame faster](https://towardsdatascience.com/how-to-simply-make-an-operation-on-pandas-dataframe-faster-adaea5e41e96)
 * [4 Less Known Pandas Functions That Can Make Your Work Easier](https://towardsdatascience.com/4-less-known-pandas-functions-that-can-make-your-work-easier-5e430cac7a82)
+* [Exploring the Python Pandas Library](https://towardsdatascience.com/exploring-the-python-pandas-library-67243960271e)
 
 ## Git 
 
