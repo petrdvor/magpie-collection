@@ -92,6 +92,14 @@ Collection of Python resources related to data science and general programming.
 * [53 Python Interview Questions and Answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 * [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [DS Crash Course](https://www.dscrashcourse.com/lessons)
+* [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
+
+### Statistics
+
+* [Power Analysis Made Easy](https://towardsdatascience.com/power-analysis-made-easy-dfee1eb813a)
+* [Why Machine Learning Models Hate “Change”](https://towardsdatascience.com/why-machine-learning-models-hate-change-f891d0d086d8)
+* [Bayesian Stats 101 for Data Scientists](https://towardsdatascience.com/bayesian-stats-101-for-data-scientists-a8c145a84259)
+* [Hypothesis testing: the distribution doesn’t matter(!)](https://towardsdatascience.com/hypothesis-testing-the-distribution-doesnt-matter-79882ba62f54)
 
 ## Multiprocessing
 
