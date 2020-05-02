@@ -26,6 +26,8 @@ Collection of Python resources related to data science and general programming.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [String Validators in Python](https://medium.com/better-programming/string-validators-in-python-84aca562fd25)
 * [Build Your First Open Source Python Project](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7)
+* [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+* []
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -50,6 +52,12 @@ Collection of Python resources related to data science and general programming.
 * [Cookiecutter Python package](https://drivendata.github.io/cookiecutter-data-science/)
 * [How to organize code in Python if you are a scientist](https://towardsdatascience.com/workflow-for-reportable-reusable-and-reproducible-computational-research-45d036c8a908)
 * [How to Structure a Python-Based Data Science Project (a short tutorial for beginners)](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
+
+### Makefile
+
+* [Makefiles in python projects](https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html)
+* [Makefile with Python](https://blog.horejsek.com/makefile-with-python/)
+
 
 
 ## Documentation
@@ -102,6 +110,8 @@ Collection of Python resources related to data science and general programming.
 * [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
 * [Data Science Crash Course: In Depth Linear Regression](https://towardsdatascience.com/data-science-crash-course-in-depth-linear-regression-fd06511f586c)
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* [Resources I Wish I Knew When I Started Out With Data Science](https://towardsdatascience.com/resources-i-wish-i-knew-when-i-started-out-with-data-science-9a8889654c36)
+* [Exploratory Data Analysis on Steroids](https://towardsdatascience.com/exploratory-data-analysis-on-steroids-e1488324fbaa)
 
 ### Statistics
 
@@ -178,6 +188,7 @@ Collection of Python resources related to data science and general programming.
 * [How to simply make an operation on pandas DataFrame faster](https://towardsdatascience.com/how-to-simply-make-an-operation-on-pandas-dataframe-faster-adaea5e41e96)
 * [4 Less Known Pandas Functions That Can Make Your Work Easier](https://towardsdatascience.com/4-less-known-pandas-functions-that-can-make-your-work-easier-5e430cac7a82)
 * [Exploring the Python Pandas Library](https://towardsdatascience.com/exploring-the-python-pandas-library-67243960271e)
+* [A Complete Pandas Guide](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
 
 ## Git 
 
@@ -188,3 +199,4 @@ Collection of Python resources related to data science and general programming.
 
 * [soarpenguin/python-scripts](https://github.com/soarpenguin/python-scripts)
 * [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
+* Fake data generator: [joke2k/faker](https://github.com/joke2k/faker)
