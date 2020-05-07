@@ -85,6 +85,7 @@ Collection of Python resources related to data science and general programming.
 * [Magic Methods in Python, by example](https://towardsdatascience.com/magic-methods-in-python-by-example-16b6826cae5c)
 * [Introducing Python 3.7's Dataclasses](https://www.linuxjournal.com/content/introducing-python-37s-dataclasses)
 * [Meaning of @classmethod and @staticmethod for beginner?](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner)
+* [Object-oriented programming for data scientists: Build your ML estimator](https://towardsdatascience.com/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64)
 
 ## Design patterns
 
@@ -112,6 +113,7 @@ Collection of Python resources related to data science and general programming.
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 * [Resources I Wish I Knew When I Started Out With Data Science](https://towardsdatascience.com/resources-i-wish-i-knew-when-i-started-out-with-data-science-9a8889654c36)
 * [Exploratory Data Analysis on Steroids](https://towardsdatascience.com/exploratory-data-analysis-on-steroids-e1488324fbaa)
+* [A Compilation of Free Data Science Resources](https://towardsdatascience.com/a-compilation-of-free-data-science-resources-7861f572cc85)
 
 ### Statistics
 
@@ -147,6 +149,7 @@ Collection of Python resources related to data science and general programming.
 * [34 Best Free & Responsive Admin Templates 2020](https://colorlib.com/wp/free-admin-templates/)
 * [Your window into the Elastic Stac](https://www.elastic.co/kibana) - Vizualization engine
 * [How to embed Bootstrap CSS & JS in your Python Dash app](https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
+* [Building A Real-time Dashboard Using Python Plotly Library And Web Service](https://towardsdatascience.com/building-a-real-time-dashboard-using-python-plotly-library-and-web-service-145f50d204f0)
 
 
 ## Packages and modules
@@ -189,6 +192,10 @@ Collection of Python resources related to data science and general programming.
 * [4 Less Known Pandas Functions That Can Make Your Work Easier](https://towardsdatascience.com/4-less-known-pandas-functions-that-can-make-your-work-easier-5e430cac7a82)
 * [Exploring the Python Pandas Library](https://towardsdatascience.com/exploring-the-python-pandas-library-67243960271e)
 * [A Complete Pandas Guide](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
+* [Less Known but Very Useful Pandas Functions](https://towardsdatascience.com/less-known-but-very-useful-pandas-functions-1e1756afb2a9)
+* [My Top 5 Pandas Data Manipulation Functions](https://towardsdatascience.com/my-top-5-pandas-data-manipulation-function-680e346809c7)
+* [Full Stack Pandas](https://towardsdatascience.com/full-stack-pandas-625f134ce0f6)
+
 
 ## Git 
 
@@ -199,4 +206,5 @@ Collection of Python resources related to data science and general programming.
 
 * [soarpenguin/python-scripts](https://github.com/soarpenguin/python-scripts)
 * [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
+* [10 Awesome Github Repos Every Web Developer Should Know](https://medium.com/better-programming/10-awesome-github-repos-every-web-developer-should-know-15288c8533f1)
 * Fake data generator: [joke2k/faker](https://github.com/joke2k/faker)
