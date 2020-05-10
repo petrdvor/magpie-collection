@@ -27,7 +27,7 @@ Collection of Python resources related to data science and general programming.
 * [String Validators in Python](https://medium.com/better-programming/string-validators-in-python-84aca562fd25)
 * [Build Your First Open Source Python Project](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7)
 * [21 Techniques to Write Better Code](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
-* []
+
 
 ## Best practices
 * [Nine simple steps for better-looking python code](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
@@ -52,6 +52,7 @@ Collection of Python resources related to data science and general programming.
 * [Cookiecutter Python package](https://drivendata.github.io/cookiecutter-data-science/)
 * [How to organize code in Python if you are a scientist](https://towardsdatascience.com/workflow-for-reportable-reusable-and-reproducible-computational-research-45d036c8a908)
 * [How to Structure a Python-Based Data Science Project (a short tutorial for beginners)](https://medium.com/swlh/how-to-structure-a-python-based-data-science-project-a-short-tutorial-for-beginners-7e00bff14f56)
+* [BEST PRACTICES ORGANIZING DATA SCIENCE PROJECTS](https://www.thinkingondata.com/how-to-organize-data-science-projects/)
 
 ### Makefile
 
@@ -64,6 +65,7 @@ Collection of Python resources related to data science and general programming.
 
 * [Start Writing Python Docstrings](https://medium.com/better-programming/the-guide-to-python-docstrings-3d40340e824b)
 * [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+* [Start Writing Python Docstrings](https://medium.com/better-programming/the-guide-to-python-docstrings-3d40340e824b)
 
 ## Common mistakes
 
@@ -173,6 +175,7 @@ Collection of Python resources related to data science and general programming.
 * [An introduction to GraphQL: how it works and how to use it](https://www.freecodecamp.org/news/an-introduction-to-graphql-how-it-works-and-how-to-use-it-91162ecd72d0/)
 * [Python API Tutorial: Getting Started with APIs](https://www.dataquest.io/blog/python-api-tutorial/)
 * [Comparing the best free financial market data APIs](https://towardsdatascience.com/comparing-the-best-free-financial-market-data-apis-158ae73c16ba)
+* [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 
 ## Testing
 
@@ -195,12 +198,14 @@ Collection of Python resources related to data science and general programming.
 * [Less Known but Very Useful Pandas Functions](https://towardsdatascience.com/less-known-but-very-useful-pandas-functions-1e1756afb2a9)
 * [My Top 5 Pandas Data Manipulation Functions](https://towardsdatascience.com/my-top-5-pandas-data-manipulation-function-680e346809c7)
 * [Full Stack Pandas](https://towardsdatascience.com/full-stack-pandas-625f134ce0f6)
-
+* [12 Amazing Pandas & NumPy Functions](https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8)
+* [A Complete Pandas Guide](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
 
 ## Git 
 
 * [Git Commands – 10 Terminal Tricks Every Developer Should Know](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/amp/)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+* [Managing Git projects with submodules and subtrees](https://opensource.com/article/20/5/git-submodules-subtrees)
 
 ### Repos worth to explore
 
